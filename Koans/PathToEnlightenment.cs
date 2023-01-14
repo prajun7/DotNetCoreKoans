@@ -27,7 +27,7 @@ public class PathToEnlightenment : Path
 			typeof(AboutIteration),
 			typeof(AboutExceptions),
 			typeof(AboutGenericContainers),
-			typeof(AboutDelegates),
+			// typeof(AboutDelegates),
 			typeof(AboutLambdas),
 			typeof(AboutDirectory),
 			typeof(AboutFile),
